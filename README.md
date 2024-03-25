@@ -10,6 +10,6 @@ What I've done in Algorithm Class, such as
 -The Bus Driver Problem  
 -Rod Cutting  
 -Longest Common Subsequence  
-- 0-1 Knapsack Problem
-- Graph Coloring
-- The Hamming Distance Problem
+-0-1 Knapsack Problem
+-Graph Coloring
+-The Hamming Distance Problem
