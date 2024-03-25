@@ -12,4 +12,6 @@ What I've done in Algorithm Class, such as
 -Longest Common Subsequence  
 -0-1 Knapsack Problem
 -Graph Coloring
--The Hamming Distance Problem
+-The Hamming Distance Problem  
+
+Link back to main repo: https://github.com/doongwong2/miniature-adventure
